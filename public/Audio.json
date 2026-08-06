@@ -1,0 +1,111 @@
+[
+  {
+    "id": 11,
+    "name": "boAt Airdopes 141",
+    "price": 1499,
+    "type": "TWS Earbuds",
+    "connectivity": "Bluetooth 5.1",
+    "image1": "/image/audio/airdopes141-1.jpg",
+    "image2": "/image/audio/airdopes141-2.jpg",
+    "image3": "/image/audio/airdopes141-3.jpg"
+  },
+
+  {
+    "id": 12,
+    "name": "Realme Buds Air 5",
+    "price": 3499,
+    "type": "TWS Earbuds",
+    "connectivity": "Bluetooth 5.3",
+    "image1": "/image/audio/realmebuds-1.jpg",
+    "image2": "/image/audio/realmebuds-2.jpg",
+    "image3": "/image/audio/realmebuds-3.jpg"
+  },
+
+  {
+    "id": 13,
+    "name": "OnePlus Nord Buds 2",
+    "price": 2999,
+    "type": "TWS Earbuds",
+    "connectivity": "Bluetooth 5.3",
+    "image1": "/image/audio/nordbuds-1.jpg",
+    "image2": "/image/audio/nordbuds-2.jpg",
+    "image3": "/image/audio/nordbuds-3.jpg"
+  },
+
+  {
+    "id": 14,
+    "name": "Samsung Galaxy Buds FE",
+    "price": 5499,
+    "type": "TWS Earbuds",
+    "connectivity": "Bluetooth 5.2",
+    "image1": "/image/audio/galaxybuds-1.jpg",
+    "image2": "/image/audio/galaxybuds-2.jpg",
+    "image3": "/image/audio/galaxybuds-3.jpg"
+  },
+
+  {
+    "id": 15,
+    "name": "JBL Go 3",
+    "price": 2999,
+    "type": "Bluetooth Speaker",
+    "connectivity": "Bluetooth 5.1",
+    "image1": "/image/audio/jblgo-1.jpg",
+    "image2": "/image/audio/jblgo-2.jpg",
+    "image3": "/image/audio/jblgo-3.jpg"
+  },
+
+  {
+    "id": 16,
+    "name": "Sony SRS-XB13",
+    "price": 3999,
+    "type": "Bluetooth Speaker",
+    "connectivity": "Bluetooth 4.2",
+    "image1": "/image/audio/sonyxb13-1.jpg",
+    "image2": "/image/audio/sonyxb13-2.jpg",
+    "image3": "/image/audio/sonyxb13-3.jpg"
+  },
+
+  {
+    "id": 17,
+    "name": "boAt Stone 1200",
+    "price": 4499,
+    "type": "Bluetooth Speaker",
+    "connectivity": "Bluetooth 5.0",
+    "image1": "/image/audio/stone1200-1.jpg",
+    "image2": "/image/audio/stone1200-2.jpg",
+    "image3": "/image/audio/stone1200-3.jpg"
+  },
+
+  {
+    "id": 18,
+    "name": "Sony HT-S20R",
+    "price": 17999,
+    "type": "Soundbar System",
+    "connectivity": "Bluetooth / HDMI ARC",
+    "image1": "/image/audio/hts20r-1.jpg",
+    "image2": "/image/audio/hts20r-2.jpg",
+    "image3": "/image/audio/hts20r-3.jpg"
+  },
+
+  {
+    "id": 19,
+    "name": "JBL Bar 2.1 Deep Bass",
+    "price": 22999,
+    "type": "Soundbar + Subwoofer",
+    "connectivity": "Bluetooth / HDMI ARC",
+    "image1": "/image/audio/jblbar-1.jpg",
+    "image2": "/image/audio/jblbar-2.jpg",
+    "image3": "/image/audio/jblbar-3.jpg"
+  },
+
+  {
+    "id": 20,
+    "name": "Zebronics Juke Bar 9750",
+    "price": 9999,
+    "type": "Soundbar + Woofer",
+    "connectivity": "Bluetooth / USB / AUX",
+    "image1": "/image/audio/jukebar-1.jpg",
+    "image2": "/image/audio/jukebar-2.jpg",
+    "image3": "/image/audio/jukebar-3.jpg"
+  }
+]

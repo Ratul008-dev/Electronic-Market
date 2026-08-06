@@ -1,0 +1,121 @@
+[
+  {
+    "id": 81,
+    "name": "Samsung Galaxy S24 Ultra",
+    "price": 129999,
+    "type": "Flagship Smartphone",
+    "storage": "256GB",
+    "display": "6.8 inch AMOLED",
+    "image1": "/image/phones/s24u-1.jpg",
+    "image2": "/image/phones/s24u-2.jpg",
+    "image3": "/image/phones/s24u-3.jpg"
+  },
+
+  {
+    "id": 82,
+    "name": "iPhone 15 Pro",
+    "price": 134900,
+    "type": "Flagship Smartphone",
+    "storage": "256GB",
+    "display": "6.1 inch OLED",
+    "image1": "/image/phones/iphone15pro-1.jpg",
+    "image2": "/image/phones/iphone15pro-2.jpg",
+    "image3": "/image/phones/iphone15pro-3.jpg"
+  },
+
+  {
+    "id": 83,
+    "name": "Google Pixel 8 Pro",
+    "price": 106999,
+    "type": "Flagship Smartphone",
+    "storage": "256GB",
+    "display": "6.7 inch OLED",
+    "image1": "/image/phones/pixel8pro-1.jpg",
+    "image2": "/image/phones/pixel8pro-2.jpg",
+    "image3": "/image/phones/pixel8pro-3.jpg"
+  },
+
+  {
+    "id": 84,
+    "name": "OnePlus 12",
+    "price": 64999,
+    "type": "Flagship Smartphone",
+    "storage": "256GB",
+    "display": "6.82 inch AMOLED",
+    "image1": "/image/phones/op12-1.jpg",
+    "image2": "/image/phones/op12-2.jpg",
+    "image3": "/image/phones/op12-3.jpg"
+  },
+
+  {
+    "id": 85,
+    "name": "Nothing Phone 2",
+    "price": 44999,
+    "type": "Mid Range Smartphone",
+    "storage": "256GB",
+    "display": "6.7 inch OLED",
+    "image1": "/image/phones/nothing2-1.jpg",
+    "image2": "/image/phones/nothing2-2.jpg",
+    "image3": "/image/phones/nothing2-3.jpg"
+  },
+
+  {
+    "id": 86,
+    "name": "Samsung Galaxy A55",
+    "price": 39999,
+    "type": "Mid Range Smartphone",
+    "storage": "256GB",
+    "display": "6.6 inch AMOLED",
+    "image1": "/image/phones/a55-1.jpg",
+    "image2": "/image/phones/a55-2.jpg",
+    "image3": "/image/phones/a55-3.jpg"
+  },
+
+  {
+    "id": 87,
+    "name": "Redmi Note 13 Pro Plus",
+    "price": 31999,
+    "type": "Mid Range Smartphone",
+    "storage": "256GB",
+    "display": "6.67 inch AMOLED",
+    "image1": "/image/phones/note13-1.jpg",
+    "image2": "/image/phones/note13-2.jpg",
+    "image3": "/image/phones/note13-3.jpg"
+  },
+
+  {
+    "id": 88,
+    "name": "Realme Narzo 70",
+    "price": 17999,
+    "type": "Budget Smartphone",
+    "storage": "128GB",
+    "display": "6.67 inch AMOLED",
+    "image1": "/image/phones/narzo70-1.jpg",
+    "image2": "/image/phones/narzo70-2.jpg",
+    "image3": "/image/phones/narzo70-3.jpg"
+  },
+
+  {
+    "id": 89,
+    "name": "Moto G64",
+    "price": 14999,
+    "type": "Budget Smartphone",
+    "storage": "128GB",
+    "display": "6.5 inch LCD",
+    "image1": "/image/phones/motog64-1.jpg",
+    "image2": "/image/phones/motog64-2.jpg",
+    "image3": "/image/phones/motog64-3.jpg"
+  },
+
+  {
+    "id": 90,
+    "name": "POCO M6 Pro",
+    "price": 13999,
+    "type": "Budget Smartphone",
+    "storage": "128GB",
+    "display": "6.79 inch LCD",
+    "image1": "/image/phones/pocom6-1.jpg",
+    "image2": "/image/phones/pocom6-2.jpg",
+    "image3": "/image/phones/pocom6-3.jpg"
+  }
+]

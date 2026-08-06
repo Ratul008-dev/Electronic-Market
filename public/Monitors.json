@@ -1,0 +1,121 @@
+[
+  {
+    "id": 51,
+    "name": "LG UltraGear 27",
+    "price": 18999,
+    "image1": "/image/monitors/lg1.jpg",
+    "image2": "/image/monitors/lg2.jpg",
+    "image3": "/image/monitors/lg3.jpg",
+    "size": "27 inch",
+    "refreshRate": "144Hz",
+    "resolution": "2560x1440"
+  },
+
+  {
+    "id": 52,
+    "name": "Samsung Odyssey G5",
+    "price": 22999,
+    "image1": "/image/monitors/samsung1.jpg",
+    "image2": "/image/monitors/samsung2.jpg",
+    "image3": "/image/monitors/samsung3.jpg",
+    "size": "32 inch",
+    "refreshRate": "165Hz",
+    "resolution": "2560x1440"
+  },
+
+  {
+    "id": 53,
+    "name": "Acer Nitro XV272U",
+    "price": 17999,
+    "image1": "/image/monitors/acer1.jpg",
+    "image2": "/image/monitors/acer2.jpg",
+    "image3": "/image/monitors/acer3.jpg",
+    "size": "27 inch",
+    "refreshRate": "170Hz",
+    "resolution": "2560x1440"
+  },
+
+  {
+    "id": 54,
+    "name": "MSI MAG 274QRF",
+    "price": 24999,
+    "image1": "/image/monitors/msi1.jpg",
+    "image2": "/image/monitors/msi2.jpg",
+    "image3": "/image/monitors/msi3.jpg",
+    "size": "27 inch",
+    "refreshRate": "165Hz",
+    "resolution": "2560x1440"
+  },
+
+  {
+    "id": 55,
+    "name": "ASUS TUF VG27AQ",
+    "price": 23999,
+    "image1": "/image/monitors/asus1.jpg",
+    "image2": "/image/monitors/asus2.jpg",
+    "image3": "/image/monitors/asus3.jpg",
+    "size": "27 inch",
+    "refreshRate": "165Hz",
+    "resolution": "2560x1440"
+  },
+
+  {
+    "id": 56,
+    "name": "Gigabyte G27Q",
+    "price": 21999,
+    "image1": "/image/monitors/gigabyte1.jpg",
+    "image2": "/image/monitors/gigabyte2.jpg",
+    "image3": "/image/monitors/gigabyte3.jpg",
+    "size": "27 inch",
+    "refreshRate": "144Hz",
+    "resolution": "2560x1440"
+  },
+
+  {
+    "id": 57,
+    "name": "Dell S2721DGF",
+    "price": 26999,
+    "image1": "/image/monitors/dell1.jpg",
+    "image2": "/image/monitors/dell2.jpg",
+    "image3": "/image/monitors/dell3.jpg",
+    "size": "27 inch",
+    "refreshRate": "165Hz",
+    "resolution": "2560x1440"
+  },
+
+  {
+    "id": 58,
+    "name": "BenQ MOBIUZ EX2710",
+    "price": 20999,
+    "image1": "/image/monitors/benq1.jpg",
+    "image2": "/image/monitors/benq2.jpg",
+    "image3": "/image/monitors/benq3.jpg",
+    "size": "27 inch",
+    "refreshRate": "144Hz",
+    "resolution": "1920x1080"
+  },
+
+  {
+    "id": 59,
+    "name": "AOC CQ27G2",
+    "price": 19999,
+    "image1": "/image/monitors/aoc1.jpg",
+    "image2": "/image/monitors/aoc2.jpg",
+    "image3": "/image/monitors/aoc3.jpg",
+    "size": "27 inch",
+    "refreshRate": "144Hz",
+    "resolution": "2560x1440"
+  },
+
+  {
+    "id": 60,
+    "name": "ViewSonic VX2718",
+    "price": 16999,
+    "image1": "/image/monitors/viewsonic1.jpg",
+    "image2": "/image/monitors/viewsonic2.jpg",
+    "image3": "/image/monitors/viewsonic3.jpg",
+    "size": "27 inch",
+    "refreshRate": "165Hz",
+    "resolution": "1920x1080"
+  }
+]

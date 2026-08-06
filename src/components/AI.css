@@ -1,0 +1,211 @@
+.floating-ai-btn {
+    position: fixed;
+    right: 25px;
+    bottom: 100px;
+
+    width: 65px;
+    height: 65px;
+
+    border: none;
+    border-radius: 50%;
+
+    background: #f8eb31;
+    color: white;
+
+    font-size: 28px;
+
+    cursor: pointer;
+
+    box-shadow: 0 10px 25px rgba(0, 0, 0, .25);
+
+    transition: .3s;
+    z-index: 999;
+}
+
+.floating-ai-btn:hover {
+    transform: scale(1.1);
+}
+
+.close-btn {
+
+    margin-left: auto;
+
+    background: none;
+
+    border: none;
+
+    color: white;
+
+    font-size: 22px;
+
+    cursor: pointer;
+}
+
+.welcome-message {
+
+    padding: 20px;
+
+    color: #555;
+}
+
+.ai-container {
+
+    position: fixed;
+
+    bottom: 20px;
+
+    right: 20px;
+
+    width: 360px;
+
+    height: 550px;
+
+    z-index: 999;
+
+    border-radius: 18px;
+    display: flex;
+    flex-direction: column;
+
+    overflow: hidden;
+
+    box-shadow: 0 20px 50px rgba(0, 0, 0, .25);
+}
+
+.ai-header {
+
+    background: #f8eb31;
+
+    color: white;
+
+    padding: 18px;
+
+    display: flex;
+
+    gap: 15px;
+
+    align-items: center;
+}
+
+.ai-avatar {
+
+    width: 50px;
+
+    height: 50px;
+
+    border-radius: 50%;
+
+    background: white;
+
+    color: #f8eb31;
+
+    display: flex;
+
+    justify-content: center;
+
+    align-items: center;
+
+    font-size: 26px;
+
+    font-weight: bold;
+}
+
+.chat-window {
+
+    flex: 1;
+
+    background: #f5f7fb;
+    height: 400px;
+    padding: 18px;
+
+    overflow-y: auto;
+
+    display: flex;
+
+    flex-direction: column;
+
+    gap: 15px;
+    scroll-behavior: smooth;
+}
+
+.input-area {
+
+    display: flex;
+
+    padding: 15px;
+
+    gap: 10px;
+
+    background: white;
+
+    border-top: 1px solid #ddd;
+}
+
+.input-area input {
+
+    flex: 1;
+
+    padding: 12px;
+
+    border: 1px solid #ccc;
+
+    border-radius: 10px;
+
+    outline: none;
+
+    font-size: 15px;
+}
+
+.input-area button {
+
+    border: none;
+
+    background: #f8eb31;
+
+    color: #000;
+
+    padding: 0 22px;
+
+    border-radius: 10px;
+
+    cursor: pointer;
+
+    transition: .2s;
+}
+
+.input-area button:hover {
+
+    background: #ffee02;
+}
+
+.ai-line {
+    margin-bottom: 10px;
+    line-height: 1.6;
+}
+.ai-product-link{
+    text-decoration: none;
+    color: inherit;
+}
+
+.ai-product-card{
+    padding: 10px;
+    margin-top: 8px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    background: white;
+    cursor: pointer;
+}
+
+.ai-product-card:hover{
+    background: #f5f5f5;
+}
+.thinking{
+    font-style: italic;
+    color: #666;
+    animation: pulse 1s infinite;
+}
+
+@keyframes pulse{
+    0%{opacity:.4;}
+    50%{opacity:1;}
+    100%{opacity:.4;}
+}

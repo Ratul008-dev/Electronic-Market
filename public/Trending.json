@@ -1,0 +1,101 @@
+[
+ {
+   "id":1,
+   "name":"Gaming Chair",
+   "price":12999,
+   "image":"/image/chair.jpg",
+   "category":"Furniture",
+   "trending":true,
+   "path":"/accessories"
+ },
+
+ {
+   "id":2,
+   "name":"Wireless Earbuds",
+   "price":3499,
+   "image":"/image/earbuds.jpg",
+   "category":"Audio",
+   "trending":true,
+    "path":"/audio"
+ },
+
+ {
+   "id":3,
+   "name":"RGB Keyboard",
+   "price":2999,
+   "image":"/image/rgbkeyboard.jpg",
+   "category":"Accessories",
+   "trending":true,
+   "path":"/accessories"
+ },
+
+ {
+   "id":4,
+   "name":"Gaming Monitor",
+   "price":17999,
+   "image":"/image/monitor2.jpg",
+   "category":"Display",
+   "trending":true,
+    "path":"/monitors"
+ },
+
+ {
+   "id":5,
+   "name":"SSD 512GB",
+   "price":4499,
+   "image":"/image/ssd2.jpg",
+   "category":"Storage",
+   "trending":true,
+    "path":"/accessories"
+ },
+
+ {
+   "id":6,
+   "name":"Laptop Cooling Pad",
+   "price":1499,
+   "image":"/image/coolingpad.jpg",
+   "category":"Accessories",
+   "trending":true,
+   "path":"/accessories"
+ },
+
+ {
+   "id":7,
+   "name":"Bluetooth Speaker",
+   "price":2499,
+   "image":"/image/speaker.jpg",
+   "category":"Audio",
+   "trending":true,
+   "path":"/audio"
+ },
+
+ {
+   "id":8,
+   "name":"Web Camera",
+   "price":2999,
+   "image":"/image/camera.jpg",
+   "category":"Camera",
+   "trending":true,
+   "path":"/camera"
+ },
+
+ {
+   "id":9,
+   "name":"USB Hub",
+   "price":999,
+   "image":"/image/hub.jpg",
+   "category":"Accessories",
+   "trending":true,
+   "path":"/accessories"
+ },
+
+ {
+   "id":10,
+   "name":"Mechanical Keyboard",
+   "price":4999,
+   "image":"/image/mechkeyboard.jpg",
+   "category":"Accessories",
+   "trending":true,
+   "path":"/accessories"
+ }
+]

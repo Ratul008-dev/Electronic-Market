@@ -1,0 +1,121 @@
+[
+  {
+    "id": 21,
+    "name": "Logitech C920 HD Pro",
+    "price": 6999,
+    "type": "Webcam",
+    "resolution": "1080p",
+    "connectivity": "USB",
+    "image1": "/image/cameras/c920-1.jpg",
+    "image2": "/image/cameras/c920-2.jpg",
+    "image3": "/image/cameras/c920-3.jpg"
+  },
+
+  {
+    "id": 22,
+    "name": "Razer Kiyo",
+    "price": 8999,
+    "type": "Webcam",
+    "resolution": "1080p",
+    "connectivity": "USB",
+    "image1": "/image/cameras/kiyo-1.jpg",
+    "image2": "/image/cameras/kiyo-2.jpg",
+    "image3": "/image/cameras/kiyo-3.jpg"
+  },
+
+  {
+    "id": 23,
+    "name": "Logitech StreamCam",
+    "price": 12999,
+    "type": "Webcam",
+    "resolution": "1080p 60FPS",
+    "connectivity": "USB-C",
+    "image1": "/image/cameras/streamcam-1.jpg",
+    "image2": "/image/cameras/streamcam-2.jpg",
+    "image3": "/image/cameras/streamcam-3.jpg"
+  },
+
+  {
+    "id": 24,
+    "name": "GoPro HERO12 Black",
+    "price": 42999,
+    "type": "Action Camera",
+    "resolution": "5.3K",
+    "connectivity": "Wi-Fi / Bluetooth",
+    "image1": "/image/cameras/gopro12-1.jpg",
+    "image2": "/image/cameras/gopro12-2.jpg",
+    "image3": "/image/cameras/gopro12-3.jpg"
+  },
+
+  {
+    "id": 25,
+    "name": "DJI Osmo Action 4",
+    "price": 38999,
+    "type": "Action Camera",
+    "resolution": "4K",
+    "connectivity": "Wi-Fi / Bluetooth",
+    "image1": "/image/cameras/osmo4-1.jpg",
+    "image2": "/image/cameras/osmo4-2.jpg",
+    "image3": "/image/cameras/osmo4-3.jpg"
+  },
+
+  {
+    "id": 26,
+    "name": "Insta360 Ace Pro",
+    "price": 45999,
+    "type": "Action Camera",
+    "resolution": "4K",
+    "connectivity": "Wi-Fi / Bluetooth",
+    "image1": "/image/cameras/acepro-1.jpg",
+    "image2": "/image/cameras/acepro-2.jpg",
+    "image3": "/image/cameras/acepro-3.jpg"
+  },
+
+  {
+    "id": 27,
+    "name": "Canon EOS 1500D",
+    "price": 38999,
+    "type": "DSLR",
+    "resolution": "24.1 MP",
+    "connectivity": "Wi-Fi",
+    "image1": "/image/cameras/1500d-1.jpg",
+    "image2": "/image/cameras/1500d-2.jpg",
+    "image3": "/image/cameras/1500d-3.jpg"
+  },
+
+  {
+    "id": 28,
+    "name": "Nikon D7500",
+    "price": 79999,
+    "type": "DSLR",
+    "resolution": "20.9 MP",
+    "connectivity": "Wi-Fi / Bluetooth",
+    "image1": "/image/cameras/d7500-1.jpg",
+    "image2": "/image/cameras/d7500-2.jpg",
+    "image3": "/image/cameras/d7500-3.jpg"
+  },
+
+  {
+    "id": 29,
+    "name": "Sony Alpha A6400",
+    "price": 84999,
+    "type": "Mirrorless Camera",
+    "resolution": "24.2 MP",
+    "connectivity": "Wi-Fi / Bluetooth",
+    "image1": "/image/cameras/a6400-1.jpg",
+    "image2": "/image/cameras/a6400-2.jpg",
+    "image3": "/image/cameras/a6400-3.jpg"
+  },
+
+  {
+    "id": 30,
+    "name": "Insta360 X4",
+    "price": 52999,
+    "type": "360 Camera",
+    "resolution": "8K 360°",
+    "connectivity": "Wi-Fi / Bluetooth",
+    "image1": "/image/cameras/x4-1.jpg",
+    "image2": "/image/cameras/x4-2.jpg",
+    "image3": "/image/cameras/x4-3.jpg"
+  }
+]

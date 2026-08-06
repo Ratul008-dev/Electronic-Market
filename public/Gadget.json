@@ -1,0 +1,111 @@
+[
+  {
+    "id": 31,
+    "name": "Apple Watch Series 10",
+    "price": 49999,
+    "type": "Smartwatch",
+    "connectivity": "Bluetooth / Wi-Fi",
+    "image1": "/image/gadgets/applewatch10-1.jpg",
+    "image2": "/image/gadgets/applewatch10-2.jpg",
+    "image3": "/image/gadgets/applewatch10-3.jpg"
+  },
+
+  {
+    "id": 32,
+    "name": "Samsung Galaxy Watch 7",
+    "price": 32999,
+    "type": "Smartwatch",
+    "connectivity": "Bluetooth / Wi-Fi",
+    "image1": "/image/gadgets/galaxywatch7-1.jpg",
+    "image2": "/image/gadgets/galaxywatch7-2.jpg",
+    "image3": "/image/gadgets/galaxywatch7-3.jpg"
+  },
+
+  {
+    "id": 33,
+    "name": "OnePlus Watch 2",
+    "price": 24999,
+    "type": "Smartwatch",
+    "connectivity": "Bluetooth / Wi-Fi",
+    "image1": "/image/gadgets/opwatch2-1.jpg",
+    "image2": "/image/gadgets/opwatch2-2.jpg",
+    "image3": "/image/gadgets/opwatch2-3.jpg"
+  },
+
+  {
+    "id": 34,
+    "name": "Amazfit GTR 4",
+    "price": 17999,
+    "type": "Smartwatch",
+    "connectivity": "Bluetooth",
+    "image1": "/image/gadgets/gtr4-1.jpg",
+    "image2": "/image/gadgets/gtr4-2.jpg",
+    "image3": "/image/gadgets/gtr4-3.jpg"
+  },
+
+  {
+    "id": 35,
+    "name": "Oura Ring Gen 3",
+    "price": 32999,
+    "type": "Smart Ring",
+    "connectivity": "Bluetooth",
+    "image1": "/image/gadgets/oura-1.jpg",
+    "image2": "/image/gadgets/oura-2.jpg",
+    "image3": "/image/gadgets/oura-3.jpg"
+  },
+
+  {
+    "id": 36,
+    "name": "Samsung Galaxy Ring",
+    "price": 34999,
+    "type": "Smart Ring",
+    "connectivity": "Bluetooth",
+    "image1": "/image/gadgets/galaxyring-1.jpg",
+    "image2": "/image/gadgets/galaxyring-2.jpg",
+    "image3": "/image/gadgets/galaxyring-3.jpg"
+  },
+
+  {
+    "id": 37,
+    "name": "boAt Smart Ring Active",
+    "price": 8999,
+    "type": "Smart Ring",
+    "connectivity": "Bluetooth",
+    "image1": "/image/gadgets/boatring-1.jpg",
+    "image2": "/image/gadgets/boatring-2.jpg",
+    "image3": "/image/gadgets/boatring-3.jpg"
+  },
+
+  {
+    "id": 38,
+    "name": "Amazon Echo Dot 5",
+    "price": 5499,
+    "type": "Smart Speaker",
+    "connectivity": "Wi-Fi / Bluetooth",
+    "image1": "/image/gadgets/echodot5-1.jpg",
+    "image2": "/image/gadgets/echodot5-2.jpg",
+    "image3": "/image/gadgets/echodot5-3.jpg"
+  },
+
+  {
+    "id": 39,
+    "name": "Amazon Echo Show 8",
+    "price": 12999,
+    "type": "Smart Display",
+    "connectivity": "Wi-Fi / Bluetooth",
+    "image1": "/image/gadgets/echoshow8-1.jpg",
+    "image2": "/image/gadgets/echoshow8-2.jpg",
+    "image3": "/image/gadgets/echoshow8-3.jpg"
+  },
+
+  {
+    "id": 40,
+    "name": "TP-Link RE315 Wi-Fi Range Extender",
+    "price": 2499,
+    "type": "Wi-Fi Repeater",
+    "connectivity": "Dual Band Wi-Fi",
+    "image1": "/image/gadgets/re315-1.jpg",
+    "image2": "/image/gadgets/re315-2.jpg",
+    "image3": "/image/gadgets/re315-3.jpg"
+  }
+]

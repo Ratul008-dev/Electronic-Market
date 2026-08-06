@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "name": "Gaming Mouse",
+        "price": 1499,
+        "category": "Accessories",
+        "rating": 4.8,
+        "image": "/image/mouse.jpg",
+        "path": "/accessories"
+    },
+    {
+        "id": 2,
+        "name": "Mechanical Keyboard",
+        "price": 3999,
+        "category": "Accessories",
+        "rating": 4.7,
+        "image": "/image/keyboard.jpg",
+        "path": "/accessories"
+    },
+    {
+        "id": 3,
+        "name": "Wireless Headphones",
+        "price": 5499,
+        "category": "Audio",
+        "rating": 4.9,
+        "image": "/image/headphone.jpg",
+        "path": "/audio"
+    },
+    {
+        "id": 4,
+        "name": "Smart Watch",
+        "price": 7999,
+        "category": "Wearables",
+        "rating": 4.6,
+        "image": "/image/watch.jpg",
+        "path": "/gadgets"
+    },
+    {
+        "id": 5,
+        "name": "Gaming Monitor",
+        "price": 15999,
+        "category": "Display",
+        "rating": 4.9,
+        "image": "/image/monitor.jpg",
+        "path": "/monitors"
+    },
+    {
+        "id": 6,
+        "name": "Bluetooth Speaker",
+        "price": 2499,
+        "category": "Audio",
+        "rating": 4.5,
+        "image": "/image/speaker.jpg",
+        "path": "/audio"
+    },
+    {
+        "id": 7,
+        "name": "Laptop Stand",
+        "price": 999,
+        "category": "Office",
+        "rating": 4.4,
+        "image": "/image/stand.jpg",
+        "path": "/accessories"
+    },
+    {
+        "id": 8,
+        "name": "RGB Cabinet",
+        "price": 6999,
+        "category": "PC Build",
+        "rating": 4.8,
+        "image": "/image/cabinet.jpg",
+        "path": "/accessories"
+    },
+    {
+        "id": 9,
+        "name": "SSD 1TB",
+        "price": 6499,
+        "category": "Storage",
+        "rating": 4.9,
+        "image": "/image/ssd.jpg",
+        "path": "/accessories"
+    },
+    {
+        "id": 10,
+        "name": "RTX Graphic Card",
+        "price": 45999,
+        "category": "GPU",
+        "rating": 5.0,
+        "image": "/image/gpu.jpg",
+        "path": "/gfxcards"
+    },
+    {
+        "id": 11,
+        "name": "USB Hub",
+        "price": 899,
+        "category": "Accessories",
+        "rating": 4.3,
+        "image": "/image/hub.jpg",
+        "path": "/accessories"
+    },
+    {
+        "id": 12,
+        "name": "Web Camera",
+        "price": 2999,
+        "category": "Camera",
+        "rating": 4.6,
+        "image": "/image/camera.jpg",
+        "path": "/camera"
+    }
+]

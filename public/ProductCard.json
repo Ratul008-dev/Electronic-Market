@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Monitors",
+    "category": "Monitors",
+    "image": "/image/categories/monitor.jpg",
+    "path": "/monitors"
+  },
+  {
+    "id": 2,
+    "name": "Motherboards",
+    "category": "Motherboards",
+    "image": "/image/categories/motherboard.jpg",
+    "path": "/motherboards"
+  },
+  {
+    "id": 3,
+    "name": "Audio",
+    "category": "Audio",
+    "image": "/image/categories/audio.jpg",
+    "path": "/audio"
+  },
+  {
+    "id": 4,
+    "name": "Accessories",
+    "category": "Accessories",
+    "image": "/image/categories/accessories.jpg",
+    "path": "/accessories"
+  },
+  {
+    "id": 5,
+    "name": "Phones",
+    "category": "Mobile",
+    "image": "/image/categories/mobile.jpg",
+    "path": "/phones"
+  },
+  {
+    "id": 6,
+    "name": "Camera",
+    "category": "Cameras",
+    "image": "/image/categories/camera.jpg",
+    "path": "/camera"
+  },
+  {
+    "id": 7,
+    "name": "GFXCards",
+    "category": "Graphics Cards",
+    "image": "/image/categories/gpu.jpg",
+    "path": "/gfxcards"
+  },
+  {
+    "id": 8,
+    "name": "Gadgets",
+    "category": "Smart Gadgets",
+    "image": "/image/categories/smart-gadget.jpg",
+    "path":"/gadgets"
+  }
+]

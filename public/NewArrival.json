@@ -1,0 +1,82 @@
+[
+  {
+    "id": 71,
+    "name": "Smart Phone",
+    "price": 75999,
+    "rating": 4.9,
+    "image": "/image/smartphone.jpg",
+    "path":"/phones"
+  },
+  {
+    "id": 72,
+    "name": "Wireless Mouse",
+    "price": 1499,
+    "rating": 4.7,
+    "image": "/image/mouse2.jpg",
+    "path":"/accessories"
+  },
+  {
+    "id": 73,
+    "name": "RGB Keyboard",
+    "price": 3999,
+    "rating": 4.8,
+    "image": "/image/rgbkeyboard2.jpg",
+    "path":"/accessories"
+  },
+  {
+    "id": 74,
+    "name": "Gaming Headset",
+    "price": 3499,
+    "rating": 4.6,
+    "image": "/image/headset.jpg",
+    "path":"/audio"
+  },
+  {
+    "id": 75,
+    "name": "Web Camera",
+    "price": 2999,
+    "rating": 4.5,
+    "image": "/image/camera2.jpg",
+    "path":"/camera"
+  },
+  {
+    "id": 76,
+    "name": "Gaming Chair",
+    "price": 12999,
+    "rating": 4.8,
+    "image": "/image/chair.jpg",
+    "path":"/accessories"
+  },
+  {
+    "id": 77,
+    "name": "Mechanical Keyboard",
+    "price": 4599,
+    "rating": 4.9,
+    "image": "/image/mech-keyboard.jpg",
+    "path":"/accessories"
+  },
+  {
+    "id": 78,
+    "name": "RTX Graphic Card",
+    "price": 45999,
+    "rating": 5.0,
+    "image": "/image/rtx.jpg",
+    "path":"/gfxcards"
+  },
+  {
+    "id": 79,
+    "name": "Monitor 27 Inch",
+    "price": 18999,
+    "rating": 4.8,
+    "image": "/image/monitor2.jpg",
+    "path":"/monitors"
+  },
+  {
+    "id": 80,
+    "name": "SSD 2TB",
+    "price": 8999,
+    "rating": 4.7,
+    "image": "/image/ssd.jpg",
+    "path":"/accessories"
+  }
+]

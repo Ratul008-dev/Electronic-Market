@@ -1,0 +1,202 @@
+.nav-links {
+    width: 100%;
+    height: 50px;
+    background-color: #acacac;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 35px;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.4);
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    font-family: sans-serif;
+    font-weight: 500;
+    transition: 0.3s ease;
+    position: relative;
+}
+
+.nav-links a:hover {
+    color: #f8eb31;
+}
+
+.active-link {
+    color: #fff23f;
+}
+
+.active-link::after {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 2px;
+    background-color: #fff23f;
+    left: 0;
+    bottom: -6px;
+}
+
+.hamburger {
+    display: none;
+    font-size: 1.5rem;
+    cursor: pointer;
+
+}
+.logo {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-left: 20px;
+}
+.logo-image {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+    right: 95%;
+    z-index: 1000;
+    position: absolute;
+    background-color: none;
+}
+.logo h2{
+    position: absolute;
+    right: 82%;
+    font-weight: 600;
+    color: #ffffff;
+}
+.user-section {
+    left: 500px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.profile-icon {
+    font-size: 25px;
+    cursor: pointer;
+    color: #ffffff;
+    transition: 0.3s ease;
+}
+
+.profile-icon:hover {
+    color: #f8eb31;
+}
+
+.profile-menu {
+    position: absolute;
+    top: 45px;
+    right: 0;
+    width: 180px;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15);
+    padding: 12px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    z-index: 999;
+}
+
+.user-name {
+    font-size: 15px;
+    font-weight: 600;
+    color: #333;
+    margin: 0;
+}
+
+.logout-btn {
+    border: none;
+    outline: none;
+    background: crimson;
+    color: white;
+    padding: 8px 12px;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: 0.3s ease;
+}
+
+.logout-btn:hover {
+    background: #a80022;
+}
+
+/* Mobile Navbar */
+
+@media (max-width: 1400px) {
+
+    .nav-links {
+        position: fixed;
+        top: 0;
+        right: -220px;
+        /* Hidden outside screen */
+        width: 220px;
+        height: 70vh;
+        background-color: #bcbcbc;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        padding-top: 10px;
+        transition: right 0.3s ease;
+        z-index: 1000;
+        box-shadow: -3px 0 10px rgba(0, 0, 0, 0.3);
+    }
+
+    /* Opens the menu */
+    .nav-links.open {
+        right: 0;
+    }
+
+    .nav-links a {
+        width: 100%;
+        padding: 15px 25px;
+        font-size: 16px;
+        font-weight: 500;
+        text-align: left;
+        color: rgb(255, 255, 255);
+    }
+
+    .nav-links a:hover {
+        color: #f8eb31;
+    }
+
+    /* Hamburger icon */
+    .hamburger {
+        display: block;
+        font-size: 20px;
+        cursor: pointer;
+        z-index: 1100;
+        position: absolute;
+        top: 12px;
+        right: 12px;
+        padding: 10px;
+        color: #0c0c0c;
+    }
+
+    .xmark-icon {
+        position: fixed;
+        top: 12px;
+        right: 12px;
+    }
+
+    /* Remove desktop underline effect */
+    .active-link::after {
+        content: "";
+        position: absolute;
+        width: 100%;
+        height: 2px;
+        background-color: #fff23f;
+        left: 0;
+        bottom: -6px;
+    }
+    .user-section{
+        left: 20px;
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .logo{
+        display:none;
+    }
+}

@@ -1,0 +1,111 @@
+[
+  {
+    "id": 1,
+    "name": "Logitech MK270 Keyboard & Mouse",
+    "price": 2499,
+    "type": "Keyboard Mouse Combo",
+    "connectivity": "Wireless",
+    "image1": "/image/accessories/mk270-1.jpg",
+    "image2": "/image/accessories/mk270-2.jpg",
+    "image3": "/image/accessories/mk270-3.jpg"
+  },
+
+  {
+    "id": 2,
+    "name": "HP KM150 Keyboard & Mouse",
+    "price": 1499,
+    "type": "Keyboard Mouse Combo",
+    "connectivity": "USB Wired",
+    "image1": "/image/accessories/km150-1.jpg",
+    "image2": "/image/accessories/km150-2.jpg",
+    "image3": "/image/accessories/km150-3.jpg"
+  },
+
+  {
+    "id": 3,
+    "name": "Redragon S101 Gaming Combo",
+    "price": 3299,
+    "type": "Keyboard Mouse Combo",
+    "connectivity": "USB Wired",
+    "image1": "/image/accessories/redragon-1.jpg",
+    "image2": "/image/accessories/redragon-2.jpg",
+    "image3": "/image/accessories/redragon-3.jpg"
+  },
+
+  {
+    "id": 4,
+    "name": "HyperX Cloud Stinger",
+    "price": 3999,
+    "type": "Gaming Headset",
+    "connectivity": "3.5mm Jack",
+    "image1": "/image/accessories/stinger-1.jpg",
+    "image2": "/image/accessories/stinger-2.jpg",
+    "image3": "/image/accessories/stinger-3.jpg"
+  },
+
+  {
+    "id": 5,
+    "name": "Razer BlackShark V2 X",
+    "price": 4499,
+    "type": "Gaming Headset",
+    "connectivity": "3.5mm Jack",
+    "image1": "/image/accessories/blackshark-1.jpg",
+    "image2": "/image/accessories/blackshark-2.jpg",
+    "image3": "/image/accessories/blackshark-3.jpg"
+  },
+
+  {
+    "id": 6,
+    "name": "Anker 7-Port USB Hub",
+    "price": 1999,
+    "type": "USB Hub",
+    "connectivity": "USB 3.0",
+    "image1": "/image/accessories/usbhub-1.jpg",
+    "image2": "/image/accessories/usbhub-2.jpg",
+    "image3": "/image/accessories/usbhub-3.jpg"
+  },
+
+  {
+    "id": 7,
+    "name": "Samsung 980 NVMe SSD 1TB",
+    "price": 6999,
+    "type": "SSD",
+    "connectivity": "M.2 NVMe",
+    "image1": "/image/accessories/ssd980-1.jpg",
+    "image2": "/image/accessories/ssd980-2.jpg",
+    "image3": "/image/accessories/ssd980-3.jpg"
+  },
+
+  {
+    "id": 8,
+    "name": "Cosmic Byte Cooling Pad",
+    "price": 1299,
+    "type": "Cooling Pad",
+    "connectivity": "USB Powered",
+    "image1": "/image/accessories/coolingpad-1.jpg",
+    "image2": "/image/accessories/coolingpad-2.jpg",
+    "image3": "/image/accessories/coolingpad-3.jpg"
+  },
+
+  {
+    "id": 9,
+    "name": "Ant Esports ICE-511MT Cabinet",
+    "price": 4599,
+    "type": "PC Cabinet",
+    "connectivity": "ATX Mid Tower",
+    "image1": "/image/accessories/cabinet-1.jpg",
+    "image2": "/image/accessories/cabinet-2.jpg",
+    "image3": "/image/accessories/cabinet-3.jpg"
+  },
+
+  {
+    "id": 10,
+    "name": "Green Soul Monster Ultimate",
+    "price": 16999,
+    "type": "Gaming Chair",
+    "connectivity": "Adjustable Recliner",
+    "image1": "/image/accessories/chair-1.jpg",
+    "image2": "/image/accessories/chair-2.jpg",
+    "image3": "/image/accessories/chair-3.jpg"
+  }
+]

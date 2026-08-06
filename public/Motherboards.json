@@ -1,0 +1,112 @@
+[
+  {
+    "id": 61,
+    "name": "ASUS ROG Strix Z790-E",
+    "price": 34999,
+    "chipset": "Intel Z790",
+    "socket": "LGA1700",
+    "memory": "DDR5",
+    "image1": "/image/motherboards/asus-z790-1.jpg",
+    "image2": "/image/motherboards/asus-z790-2.jpg",
+    "image3": "/image/motherboards/asus-z790-3.jpg"
+  },
+  {
+    "id": 62,
+    "name": "MSI MPG Z790 Carbon WiFi",
+    "price": 31999,
+    "chipset": "Intel Z790",
+    "socket": "LGA1700",
+    "memory": "DDR5",
+    "image1": "/image/motherboards/msi-carbon-1.jpg",
+    "image2": "/image/motherboards/msi-carbon-2.jpg",
+    "image3": "/image/motherboards/msi-carbon-3.jpg"
+  },
+  {
+    "id": 63,
+    "name": "Gigabyte Z790 AORUS Elite AX",
+    "price": 27999,
+    "chipset": "Intel Z790",
+    "socket": "LGA1700",
+    "memory": "DDR5",
+    "image1": "/image/motherboards/aorus-1.jpg",
+    "image2": "/image/motherboards/aorus-2.jpg",
+    "image3": "/image/motherboards/aorus-3.jpg"
+  },
+  {
+    "id": 64,
+    "name": "ASRock Z790 Steel Legend",
+    "price": 24999,
+    "chipset": "Intel Z790",
+    "socket": "LGA1700",
+    "memory": "DDR5",
+    "image1": "/image/motherboards/steel-1.jpg",
+    "image2": "/image/motherboards/steel-2.jpg",
+    "image3": "/image/motherboards/steel-3.jpg"
+  },
+  {
+    "id": 65,
+    "name": "ASUS TUF Gaming B650-Plus",
+    "price": 18999,
+    "chipset": "AMD B650",
+    "socket": "AM5",
+    "memory": "DDR5",
+    "image1": "/image/motherboards/tuf-b650-1.jpg",
+    "image2": "/image/motherboards/tuf-b650-2.jpg",
+    "image3": "/image/motherboards/tuf-b650-3.jpg"
+  },
+  {
+    "id": 66,
+    "name": "MSI MAG B650 Tomahawk",
+    "price": 20999,
+    "chipset": "AMD B650",
+    "socket": "AM5",
+    "memory": "DDR5",
+    "image1": "/image/motherboards/tomahawk-1.jpg",
+    "image2": "/image/motherboards/tomahawk-2.jpg",
+    "image3": "/image/motherboards/tomahawk-3.jpg"
+  },
+  {
+    "id": 67,
+    "name": "Gigabyte B650 AORUS Elite",
+    "price": 19999,
+    "chipset": "AMD B650",
+    "socket": "AM5",
+    "memory": "DDR5",
+    "image1": "/image/motherboards/b650-aorus-1.jpg",
+    "image2": "/image/motherboards/b650-aorus-2.jpg",
+    "image3": "/image/motherboards/b650-aorus-3.jpg"
+  },
+  {
+    "id": 68,
+    "name": "ASRock B650M Pro RS",
+    "price": 15999,
+    "chipset": "AMD B650",
+    "socket": "AM5",
+    "memory": "DDR5",
+    "image1": "/image/motherboards/pro-rs-1.jpg",
+    "image2": "/image/motherboards/pro-rs-2.jpg",
+    "image3": "/image/motherboards/pro-rs-3.jpg"
+  },
+  {
+    "id": 69,
+    "name": "ASUS Prime H610M-E",
+    "price": 7999,
+    "chipset": "Intel H610",
+    "socket": "LGA1700",
+    "memory": "DDR4",
+    "image1": "/image/motherboards/h610-1.jpg",
+    "image2": "/image/motherboards/h610-2.jpg",
+    "image3": "/image/motherboards/h610-3.jpg"
+  },
+  {
+    "id": 70,
+    "name": "MSI PRO B760M-A WiFi",
+    "price": 12999,
+    "chipset": "Intel B760",
+    "socket": "LGA1700",
+    "memory": "DDR5",
+    "image1": "/image/motherboards/b760-1.jpg",
+    "image2": "/image/motherboards/b760-2.jpg",
+    "image3": "/image/motherboards/b760-3.jpg"
+  }
+]

@@ -1,0 +1,63 @@
+.TopPicks-grid{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+    padding: 15px;
+}
+.TopPicks-card{
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 16px;
+    text-align: center;
+    background-color: #a7a2a2;
+    cursor: pointer;
+    
+}
+.TopPicks-card:hover{
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transform: translateY(-5px);
+    transition: all 0.3s ease;
+}
+.TopPicks-card img{
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    object-fit: contain;
+}
+.TopPicks-card h3{
+    font-size: 1.2em;
+    margin: 10px 0;
+}
+.TopPicks-card p{
+    font-size: 1em;
+    color: #555;
+}
+.top-picks-link{
+    text-decoration: none;
+    color: inherit;
+}
+.rating{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+}
+.star{
+    color: #f5c518;
+}
+@media (max-width: 768px) {
+    .TopPicks-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .TopPicks-card {
+        h3 {
+            font-size: 1em;
+        }
+    }
+    .TopPicks-card p {
+        font-size: 0.9em;
+    }
+    .TopPicks-card {
+        height: 90%;
+    }
+}

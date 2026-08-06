@@ -1,0 +1,28 @@
+.more-btn {
+    background-color: #8f8f8f;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 0 20px
+}
+
+.more-btn:hover {
+    color: #f8eb31;
+}
+
+.morebtn-container {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 20px;
+}
+
+.more-link {
+    text-decoration: none;
+}
+@media (max-width: 768px) {
+    .morebtn-container {
+        justify-content: center;
+    }
+}

@@ -1,0 +1,121 @@
+[
+  {
+    "id": 41,
+    "name": "NVIDIA GeForce RTX 4090",
+    "price": 189999,
+    "type": "Graphics Card",
+    "memory": "24GB GDDR6X",
+    "architecture": "Ada Lovelace",
+    "image1": "/image/gfxcards/rtx4090-1.jpg",
+    "image2": "/image/gfxcards/rtx4090-2.jpg",
+    "image3": "/image/gfxcards/rtx4090-3.jpg"
+  },
+
+  {
+    "id": 42,
+    "name": "NVIDIA GeForce RTX 4080 Super",
+    "price": 109999,
+    "type": "Graphics Card",
+    "memory": "16GB GDDR6X",
+    "architecture": "Ada Lovelace",
+    "image1": "/image/gfxcards/rtx4080-1.jpg",
+    "image2": "/image/gfxcards/rtx4080-2.jpg",
+    "image3": "/image/gfxcards/rtx4080-3.jpg"
+  },
+
+  {
+    "id": 43,
+    "name": "NVIDIA GeForce RTX 4070 Super",
+    "price": 64999,
+    "type": "Graphics Card",
+    "memory": "12GB GDDR6X",
+    "architecture": "Ada Lovelace",
+    "image1": "/image/gfxcards/rtx4070-1.jpg",
+    "image2": "/image/gfxcards/rtx4070-2.jpg",
+    "image3": "/image/gfxcards/rtx4070-3.jpg"
+  },
+
+  {
+    "id": 44,
+    "name": "NVIDIA GeForce RTX 4060 Ti",
+    "price": 44999,
+    "type": "Graphics Card",
+    "memory": "8GB GDDR6",
+    "architecture": "Ada Lovelace",
+    "image1": "/image/gfxcards/rtx4060ti-1.jpg",
+    "image2": "/image/gfxcards/rtx4060ti-2.jpg",
+    "image3": "/image/gfxcards/rtx4060ti-3.jpg"
+  },
+
+  {
+    "id": 45,
+    "name": "AMD Radeon RX 7900 XTX",
+    "price": 99999,
+    "type": "Graphics Card",
+    "memory": "24GB GDDR6",
+    "architecture": "RDNA 3",
+    "image1": "/image/gfxcards/rx7900xtx-1.jpg",
+    "image2": "/image/gfxcards/rx7900xtx-2.jpg",
+    "image3": "/image/gfxcards/rx7900xtx-3.jpg"
+  },
+
+  {
+    "id": 46,
+    "name": "AMD Radeon RX 7800 XT",
+    "price": 56999,
+    "type": "Graphics Card",
+    "memory": "16GB GDDR6",
+    "architecture": "RDNA 3",
+    "image1": "/image/gfxcards/rx7800xt-1.jpg",
+    "image2": "/image/gfxcards/rx7800xt-2.jpg",
+    "image3": "/image/gfxcards/rx7800xt-3.jpg"
+  },
+
+  {
+    "id": 47,
+    "name": "AMD Radeon RX 7600",
+    "price": 27999,
+    "type": "Graphics Card",
+    "memory": "8GB GDDR6",
+    "architecture": "RDNA 3",
+    "image1": "/image/gfxcards/rx7600-1.jpg",
+    "image2": "/image/gfxcards/rx7600-2.jpg",
+    "image3": "/image/gfxcards/rx7600-3.jpg"
+  },
+
+  {
+    "id": 48,
+    "name": "Intel Arc A770",
+    "price": 31999,
+    "type": "Graphics Card",
+    "memory": "16GB GDDR6",
+    "architecture": "Xe HPG",
+    "image1": "/image/gfxcards/a770-1.jpg",
+    "image2": "/image/gfxcards/a770-2.jpg",
+    "image3": "/image/gfxcards/a770-3.jpg"
+  },
+
+  {
+    "id": 49,
+    "name": "NVIDIA GeForce RTX 3050",
+    "price": 22999,
+    "type": "Graphics Card",
+    "memory": "8GB GDDR6",
+    "architecture": "Ampere",
+    "image1": "/image/gfxcards/rtx3050-1.jpg",
+    "image2": "/image/gfxcards/rtx3050-2.jpg",
+    "image3": "/image/gfxcards/rtx3050-3.jpg"
+  },
+
+  {
+    "id": 50,
+    "name": "AMD Radeon RX 6600",
+    "price": 19999,
+    "type": "Graphics Card",
+    "memory": "8GB GDDR6",
+    "architecture": "RDNA 2",
+    "image1": "/image/gfxcards/rx6600-1.jpg",
+    "image2": "/image/gfxcards/rx6600-2.jpg",
+    "image3": "/image/gfxcards/rx6600-3.jpg"
+  }
+]
