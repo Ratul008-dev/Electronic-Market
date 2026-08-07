@@ -17,7 +17,7 @@ const Login = () => {
   const navigate = useNavigate();
   const onSubmit = async (data) => {
     try {
-      const result = await fetch("http://localhost:3000/login", {
+      const result = await fetch("https://electronic-market.onrender.com/login", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
@@ -33,7 +33,7 @@ const Login = () => {
           response.user.username
         );
         const cartResponse = await
-          fetch("http://localhost:3000/cart", {
+          fetch("https://electronic-market.onrender.com/cart", {
             headers: {
               "Authorization": response.token
             }

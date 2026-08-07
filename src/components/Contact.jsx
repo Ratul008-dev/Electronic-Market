@@ -24,7 +24,7 @@ const Contact = () => {
   } = useForm();
 
   const reviewSubmit = async(data) => {
-   await fetch("http://localhost:3000/contact",{
+   await fetch("https://electronic-market.onrender.com/contact",{
     method:"POST",
     headers:{
       "Content-Type":"application/json"
@@ -36,7 +36,7 @@ const Contact = () => {
   };
 
   const problemSubmit = async(data) => {
-    await fetch("http://localhost:3000/problem",{
+    await fetch("https://electronic-market.onrender.com/problem",{
      method:"POST",
      headers:{
        "Content-Type":"application/json"

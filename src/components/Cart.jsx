@@ -5,7 +5,7 @@ const sendCartToBackend = async (cartData) => {
   
   const token = localStorage.getItem('token');
 
-  await fetch('http://localhost:3000/cart', {
+  await fetch('https://electronic-market.onrender.com/cart', {
     method: 'POST',
     headers: {
       "Content-Type": "application/json",
@@ -23,7 +23,7 @@ const Cart = () => {
         setProducts([]);
         return;
       }
-      const res = await fetch("http://localhost:3000/cart", {
+      const res = await fetch("https://electronic-market.onrender.com/cart", {
         headers: {
           Authorization: token,
         },
@@ -74,7 +74,7 @@ const Cart = () => {
   }, 0)
   const handlePayment = async () => {
     try {
-      const response = await fetch("http://localhost:3000/payment/create-order", {
+      const response = await fetch("https://electronic-market.onrender.com/payment/create-order", {
         method: "POST",
         headers: {
           "Content-Type": "application/json"
