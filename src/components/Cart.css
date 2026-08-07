@@ -118,6 +118,14 @@ span {
         transform: translateY(0px);
     }
 }
+.pay-btn {
+    padding: 10px 80px;
+    background-color: #fff34b;
+    color: #000000;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
 @media (max-width: 768px) {
 
 .cart-list {

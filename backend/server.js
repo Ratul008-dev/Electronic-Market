@@ -184,7 +184,7 @@ const aiProducts=products.map(product=>({
     link:`/Products/${product.id}`
 }))
         const response = await ai.models.generateContent({
-            model: "gemini-3.6-flash",
+            model: "gemini-3.5-flash",
             contents: systemPrompt,
         });
         let cleanReply = response.text
