@@ -7,6 +7,7 @@
     "frontend": "vite",
     "backend": "nodemon backend/server.js",
     "dev": "concurrently \"npm run frontend\" \"npm run backend\"",
+    "start": "node backend/server.js",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
