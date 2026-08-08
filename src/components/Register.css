@@ -92,4 +92,9 @@
         margin-top: 50px;
         height: 90vh;
     }
+    .footer {
+        position: absolute;
+        bottom: -30%;
+        width: 100%;
+    }
 }

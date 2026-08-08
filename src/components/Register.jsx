@@ -86,7 +86,10 @@ const Register = () => {
                 <p className="paragraph">Already have an account <Link to="/Login">Login</Link></p>
 
             </div>
-            <Footer />
+            <div className="footer">
+                <Footer />
+            </div>
+            
         </>
     )
 }
