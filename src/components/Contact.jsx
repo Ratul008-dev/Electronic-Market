@@ -230,7 +230,8 @@ const Contact = () => {
         </form>
       </div>
     </div>
-    <Footer/>
+    <div className="footer"><Footer/></div>
+    
 </>
   );
 };

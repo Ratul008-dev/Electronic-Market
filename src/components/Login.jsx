@@ -82,7 +82,8 @@ const Login = () => {
         </form>
         <p className="paragraph">Don't have an account?<Link to="/register">Register</Link></p>
       </div>
-      <Footer />
+      <div className="footer"><Footer /></div>
+      
     </>
   )
 }

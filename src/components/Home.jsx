@@ -54,7 +54,8 @@ const Home = () => {
                 <MoreBtn />
             </div>
             <AI />
-            <Footer />
+            <div className="footer"><Footer /></div>
+            
         </>
     )
 }

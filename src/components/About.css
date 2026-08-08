@@ -121,7 +121,8 @@ TABLET
 .LQuestion p {
     font-size: 1em;
 }
-
+.footer {
+    display: none;
 }
 
 /* ===========================
@@ -175,5 +176,7 @@ MOBILE
 .LQuestion p {
     font-size: 0.95em;
 }
-
+.footer{
+    display: none;
+}
 }

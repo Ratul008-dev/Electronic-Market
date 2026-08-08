@@ -1,6 +1,6 @@
 .carousel {
-    margin:20px 15px;
-    padding:0 8px;
+    margin: 20px 15px;
+    padding: 0 8px;
     width: 97%;
     height: 60vh;
     overflow: hidden;
@@ -92,6 +92,7 @@
         width: 0%;
     }
 }
+
 .dots li {
     width: 12px;
     height: 12px;
@@ -102,9 +103,11 @@
     transition: background-color 0.3s ease;
     cursor: pointer;
 }
+
 .dots li.active {
     background-color: #f8eb31;
 }
+
 .dots {
     position: absolute;
     bottom: 15px;
@@ -113,30 +116,36 @@
     z-index: 100;
     top: 55%;
 }
+
 .TopPicks h2 {
     margin: 20px 0 10px 15px;
     font-size: 1.5rem;
     font-weight: bold;
 }
+
 .Trending h2 {
     margin: 20px 0 10px 15px;
     font-size: 1.5rem;
     font-weight: bold;
 }
+
 .NewArrival h2 {
     margin: 20px 0 10px 15px;
     font-size: 1.5rem;
     font-weight: bold;
 }
+
 .desktop {
     display: block;
 }
+
 .mobile {
     display: none;
 }
+
 @media (max-width: 1400px) {
     .carousel {
-       width: 95%;
+        width: 95%;
         height: 250px;
         margin: -5px 10px;
         overflow: hidden;
@@ -149,43 +158,54 @@
         height: 100%;
         object-fit: contain;
     }
+
     .desktop {
         display: none;
     }
+
     .mobile {
         display: block;
     }
-.arrows {
-    
+
+    .arrows {
+
         position: absolute;
         top: 15%;
         left: 0;
         transform: translateY(-50%);
-        width:100%;
+        width: 100%;
         max-width: 90%;
         display: flex;
         justify-content: space-between;
         padding: 0 20px;
     }
+
     .arrows button {
         width: 20px;
         height: 20px;
         font-size: 10px;
         margin: 0;
     }
+
     .TopPicks h2 {
         margin: 10px 0 5px 10px;
         font-size: 1.2rem;
         font-weight: bold;
     }
+
     .NewArrival h2 {
         margin: 10px 0 5px 10px;
         font-size: 1.2rem;
         font-weight: bold;
     }
+
     .Trending h2 {
         margin: 10px 0 5px 10px;
         font-size: 1.2rem;
         font-weight: bold;
+    }
+
+    .footer {
+        display: none;
     }
 }

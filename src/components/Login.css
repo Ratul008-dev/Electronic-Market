@@ -90,4 +90,7 @@
         margin-top: 50px;
         height: 90vh;
     }
+    .footer{
+        display: none;
+    }
 }
