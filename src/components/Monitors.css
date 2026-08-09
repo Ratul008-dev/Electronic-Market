@@ -1,25 +1,21 @@
-/* ==========================================
-   1. MAIN LIST CONTAINER (2-Column Grid Layout)
-   ========================================== */
+
 .Monitors-list {
    display: grid;
-    grid-template-columns: repeat(2, 1fr); /* Exactly 2 columns across the row */
+    grid-template-columns: repeat(2, 1fr);
     gap: 24px;
     width: 96%;
     padding: 20px;
     margin: 0 auto;  
-    /* Center the grid within the container */
-}
+    
+}           
 
-/* ==========================================
-   2. INDIVIDUAL MONITOR CARD LAYOUT
-   ========================================== */
+
 .Monitors-card {
     display: flex;
     flex-direction: row;
     align-items: center;
     gap: 28px;
-    /* Spacing between image grid and text info */
+    
     border: 1px solid #e0e0e0;
     border-radius: 12px;
     padding: 24px;
@@ -29,13 +25,11 @@
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
 }
 
-/* ==========================================
-   3. IMAGES GRID & HOVER EFFECTS (Inside Card)
-   ========================================== */
+
 .Monitors-image {
     display: grid;
     grid-template-columns: repeat(3, 110px);
-    /* 3 column sub-grid for thumbnails */
+    
     gap: 10px;
     flex-shrink: 0;
 }
@@ -50,15 +44,13 @@
     cursor: pointer;
 }
 
-/* Safe, stable hint hover effect instead of a giant jump */
+
 .Monitors-image img:hover {
     transform: translateY(-4px);
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
 }
 
-/* ==========================================
-   4. TEXT INFO SECTION (Flexbox Layout)
-   ========================================== */
+
 .Monitors-info {
     display: flex;
     flex-direction: column;
@@ -67,13 +59,13 @@
     flex-grow: 1;
 }
 
-/* Typography resets */
+
 .Monitors-info h3,
 .Monitors-info p {
     margin: 0;
 }
 
-/* Product title header */
+
 .Monitors-info h3 {
     font-size: 1.35rem;
     font-weight: 600;
@@ -81,7 +73,7 @@
     line-height: 1.3;
 }
 
-/* Currency/Price tag highlighting */
+
 .Monitors-info p:first-of-type {
     font-weight: 700;
     color: #0284c7;
@@ -89,7 +81,7 @@
     margin-top: 2px;
 }
 
-/* Size, refresh rate, and resolution text styling */
+
 .Monitors-info p:not(:first-of-type) {
     color: #555;
     font-size: 1rem;
@@ -108,11 +100,7 @@
     background-color: #ffe70a;
 }
 
-/* ==========================================
-   5. CLICK-TO-OPEN INTERACTIVE VIEWER MODAL
-   ========================================== */
 
-/* Full screen dimmed backdrop background */
 .Image-overlay {
     position: fixed;
     top: 0;
@@ -120,16 +108,16 @@
     width: 100vw;
     height: 100vh;
     background-color: rgba(0, 0, 0, 0.75);
-    /* Darkens the screen */
+    
     display: flex;
     justify-content: center;
     align-items: center;
     z-index: 10000;
-    /* Stays reliably above all cards and layouts */
+    
     animation: fadeIn 0.2s ease-out;
 }
 
-/* Inner canvas for the centered pop-up view */
+
 .Image-modal-content {
     position: relative;
     max-width: 85vw;
@@ -143,7 +131,7 @@
     align-items: center;
 }
 
-/* Centered full-screen image dimensions */
+
 .Image-modal-content img {
     max-width: 100%;
     max-height: 75vh;
@@ -151,7 +139,7 @@
     border-radius: 4px;
 }
 
-/* Absolute positioned 'X' close interface button */
+
 .Close-button {
     position: absolute;
     top: -45px;
@@ -164,7 +152,7 @@
     line-height: 1;
 }
 
-/* Background fade entry animation */
+
 @keyframes fadeIn {
     from {
         opacity: 0;
@@ -179,7 +167,7 @@
     
     .Monitors-list {
         grid-template-columns: 1fr;
-        /* Single column layout for smaller screens */
+        
         gap: 16px;
         width: 90%;
         padding: 16px;
@@ -187,38 +175,38 @@
 
     .Monitors-card {
         flex-direction: column;
-        /* Stack image and info vertically */
+        
         align-items: center;
     }
 
     .Monitors-image {
         grid-template-columns: repeat(3, 80px);
-        /* Smaller thumbnails on mobile */
+        
         gap: 8px;
     }
 
     .Monitors-image img {
         height: 80px;
-        /* Adjust thumbnail height for mobile */
+        
     }
 
     .Monitors-info {
         gap: 6px;
         align-items: center;
-        /* Slightly smaller spacing for mobile */
+        
     }
 
     .Monitors-info h3 {
         font-size: 1.2rem;
-        /* Slightly smaller title font for mobile */
+        
     }
     .Monitors-info p:first-of-type {
         font-size: 1.1rem;
-        /* Slightly smaller price font for mobile */
+        
     }
     .Monitors-info p:not(:first-of-type) {
         font-size: 0.95rem;
-        /* Slightly smaller specs font for mobile */
+        
     }
 
 
