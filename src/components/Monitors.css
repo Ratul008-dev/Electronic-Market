@@ -100,7 +100,11 @@
     background-color: #ffe70a;
 }
 
+/* ==========================================
+   5. CLICK-TO-OPEN INTERACTIVE VIEWER MODAL
+   ========================================== */
 
+/* Full screen dimmed backdrop background */
 .Image-overlay {
     position: fixed;
     top: 0;
