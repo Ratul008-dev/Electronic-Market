@@ -11,7 +11,7 @@ const Monitors = () => {
     const navigate = useNavigate()
 
     useEffect(() => {
-        fetch('./Monitors.json')
+        fetch('/Monitors.json')
             .then(res => res.json())
             .then(data => setMonitorsData(data))
             .catch(err => console.log(err))
